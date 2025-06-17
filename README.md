@@ -25,7 +25,7 @@ A majority of calls (20,625) were handled within SLA, but over 12,000 calls eith
 Improving these metrics could directly enhance customer satisfaction and operational efficiency.
 
 🗺️ Geographic Trends
-The Calls by State heatmap shows high activity from California and Texas, aligning with call center volumes and potential customer concentration. Understanding regional pain points can help with targeted support and staffing.
+The Calls by State clustered bar chart shows high activity from California and Texas, aligning with call center volumes and potential customer concentration. Understanding regional pain points can help with targeted support and staffing.
 
 📋 Why Are Customers Calling?
 The primary reason for contact is Billing Questions, accounting for over 23,000 calls. This volume dwarfs other concerns like Payments and Service Outages (each around 4,700 calls), signaling a need to revisit billing clarity, automation, or proactive communication.
