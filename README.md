@@ -1,4 +1,4 @@
-📞 Call Center Insights – June 2025: Turning Data into Action
+📞 Call Center Insights - June 2025: Turning Data into Action
 In June 2025, the call center system managed 32,941 inbound calls across four channels: Call Center (32%), Chat Bot (25%), Email (23%), and Web (20%). This strong multi-channel engagement highlights the growing reliance on both human and digital support.
 
 🎧 Performance by Call Center
@@ -31,14 +31,14 @@ The Calls by State map shows high activity from California and Texas, aligning w
 The primary reason for contact is Billing Questions, accounting for over 23,000 calls. This volume dwarfs other concerns like Payments and Service Outages (each around 4,700 calls), signaling a need to revisit billing clarity, automation, or proactive communication.
 
 📌 Key Takeaways for Action:
-Billing Issues are overwhelming support teams — consider improving self-service tools or FAQs.
+Billing Issues are overwhelming support teams - consider improving self-service tools or FAQs.
 
-Los Angeles call center faces sentiment and volume challenges — evaluate training, staffing, or issue types.
+Los Angeles call center faces sentiment and volume challenges - evaluate training, staffing, or issue types.
 
-Over 12K calls missed SLA targets — monitor queue times and optimize shift planning.
+Over 12K calls missed SLA targets - monitor queue times and optimize shift planning.
 
 Sentiment analysis can guide agent coaching and process improvements.
 
-Chatbots and email now account for almost half of all interactions — ensure they are as responsive as human agents.
+Chatbots and email now account for almost half of all interactions - ensure they are as responsive as human agents.
 
-This dashboard tells more than just call volumes — it reveals operational gaps, customer pain points, and opportunities to elevate service experience across all channels.
+This dashboard tells more than just call volumes - it reveals operational gaps, customer pain points, and opportunities to elevate service experience across all channels.
