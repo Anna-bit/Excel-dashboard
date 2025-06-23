@@ -34,7 +34,7 @@ The dashboard tells more than just call volumes - it reveals operational gaps, c
 ## 📷 Dashboard Preview
 
 ```markdown
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](excel project.PNG)
 
 
 Data Source: Sample CSV file from Kaggle used solely for educational and portfolio purposes.
