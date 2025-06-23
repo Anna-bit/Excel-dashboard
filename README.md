@@ -36,15 +36,9 @@ The dashboard tells more than just call volumes - it reveals operational gaps, c
 ![Dashboard Preview](excel%20project.PNG) 
 
 
-## Data Source: Sample CSV file from Kaggle used solely for educational and portfolio purposes.
+## Data Source: 
 
-
-
-
-
-
-
-Data Source: Sample CSV file from Kaggle used solely for educational and portfolio purposes.
+- Sample CSV file from Kaggle used solely for educational and portfolio purposes.
 
 
 
